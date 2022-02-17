@@ -34,5 +34,7 @@ footer p {
     text-align: right;
     color: gray;
 }
-
+video {
+    min-width: 250px;
+}
 
